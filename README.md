@@ -40,4 +40,3 @@ This project is open-source and available under the MIT License.
 - Added missing folder structure section.
 - Properly formatted the **Live Demo** and **License** sections.
 
-Now your README should look clean and professional on GitHub or any markdown viewer! 🚀
